@@ -1,6 +1,9 @@
 # M1.-Vacuums-and-Dirt
 Actividad M1 de algoritmos avanzados
 
+## Notas
+El tiempo maximo de ejecucion puede ser modificado en el source code dado en forma de Notebook
+
 ## Analisis
 Al estar haciendo distintos casos de pruebas variando los distintos parametros (manualmente) como Tiempo maximo de ejecucion, # de aspiradoras, # de mugre, etc. Pude notar varias cosas, principalmente 4:
 * Si el numero de aspiradoras es sumamente mayoritario al de piso sucio (naturalmente), tardará menos en acabar la simulacion en la mayoria de los casos, dado que hay un factor azar, siempre se puede dar el caso de que llegue al tiempo maximo, mientras el numero de aspiradoras sea menor a MxN
